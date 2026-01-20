@@ -1,7 +1,7 @@
 # Cream & Co. - Artisanal Ice Cream Experience 🍦
 
 [![Author](https://img.shields.io/badge/Author-Niveditha%20Balaji-brightgreen)](https://github.com/nivedithabalaji)
-[![Live Demo]
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://nivedithabalaji.github.io/Cream-and-Co/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Cream & Co.** is a modern, high-conversion landing page designed for a premium ice cream brand. This project features a clean, mobile-first interface that showcases artisanal flavors, crowd favorites, and subscription services with a focus on elegant UI/UX and smooth interactivity.
@@ -46,11 +46,11 @@ Instead of static elements, the site uses a JavaScript-based `scrollRevealOption
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/NIVEDITHABALAJI/Cream-and-Co.git](https://github.com/NIVEDITHABALAJI/Cream-And-Co.git)
+    git clone [https://github.com/NIVEDITHABALAJI/Cream-and-Co.git](https://nivedithabalaji.github.io/Cream-and-Co/)
     ```
 2.  **Navigate to Directory:**
     ```bash
-    cd Cream-And-Co
+    cd Cream-and-Co
     ```
 3.  **Run Locally:**
     Simply open `index.html` in your preferred browser.
