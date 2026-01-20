@@ -61,8 +61,8 @@ Instead of static elements, the site uses a JavaScript-based `scrollRevealOption
 This project is licensed under the MIT License.
 
 ## 👤 Author
-**Your Name** * GitHub: [@NIVEDITHABALAJI](https://github.com/NIVEDITHABALAJI)
-* Role: Frontend Developer
+**NIVEDITHA BALAJI**  GitHub: [@nivedithabalaji](https://github.com/NIVEDITHABALAJI)
+ Role: Frontend Developer
 
 ---
 *Created with 🍦 for the Ice Cream Lovers Community.*
